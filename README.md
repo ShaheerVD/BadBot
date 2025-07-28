@@ -5,6 +5,8 @@
 BadBot is an Unreal Engine 5 project designed for gameplay and blueprint experimentation. The project features a variety of assets, blueprints, and maps, making it a flexible base for prototyping or expanding into a full game.
 ## Gameplay Video
 - https://youtu.be/VZ4C8rng3Jg
+![Gameplay](ss1.PNG)
+![Gameplay](ss2.PNG)
 ## Project Structure
 
 - **Config/**: Project configuration files (input, engine, game settings).
